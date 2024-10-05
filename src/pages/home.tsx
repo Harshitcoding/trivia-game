@@ -91,7 +91,7 @@ export function HomePage() {
           <Lottie animationData={openingTrivia} loop={true} className="w-96" />
           <h1 className="text-3xl font-bold inline-flex flex-col lg:flex-row items-center gap-3">
             <span className="typing-text text-white">
-              Let's play a Trivia Game?!
+              Let's play a Trivia Game
             </span>
             <Lottie
               animationData={letsGoTrivia}
